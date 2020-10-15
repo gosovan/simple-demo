@@ -1,3 +1,3 @@
 # Simple Examplee Repository
 
-This is sample repository for training purpose.
+This is sample repository for training purposes.
